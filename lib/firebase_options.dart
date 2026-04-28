@@ -18,18 +18,20 @@ class DefaultFirebaseOptions {
     }
   }
 
-  // Values from google-services.json — client with package_name: com.packlite.packlite
+  // WARNING: Replace with your actual Firebase config values
+  // Do NOT commit real API keys to version control
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAmmfaJ4XP23eNZByQflieKuNzVHOo2XRs',
+    apiKey: 'YOUR_ANDROID_API_KEY_HERE',
     appId: '1:571434079074:android:ad1d082052ec842ee2523b',
     messagingSenderId: '571434079074',
     projectId: 'packlite-32bb6',
     storageBucket: 'packlite-32bb6.firebasestorage.app',
   );
 
-  // Placeholder — add GoogleService-Info.plist and update these values for iOS
+  // WARNING: Replace with your actual Firebase config values
+  // Do NOT commit real API keys to version control
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAmmfaJ4XP23eNZByQflieKuNzVHOo2XRs',
+    apiKey: 'YOUR_IOS_API_KEY_HERE',
     appId: '1:571434079074:ios:000000000000000000000000',
     messagingSenderId: '571434079074',
     projectId: 'packlite-32bb6',
