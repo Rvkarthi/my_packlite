@@ -1,0 +1,106 @@
+{
+  "locations": {
+    "beach": {
+      "places": ["Local Beach", "Snorkeling Spot", "Sunset Point", "Beachside Market"],
+      "items": ["Sunscreen SPF50", "Swimsuit", "Beach Towel", "Flip Flops", "Snorkel Gear", "Sunglasses", "Beach Bag", "Waterproof Phone Case", "Aloe Vera Gel", "Rash Guard"]
+    },
+    "mountain": {
+      "places": ["Summit Trail", "Mountain Lodge", "Scenic Overlook", "Alpine Lake"],
+      "items": ["Hiking Boots", "Trekking Poles", "Thermal Layers", "Rain Jacket", "Headlamp", "First Aid Kit", "Trail Mix", "Water Filter", "Gaiters", "Wool Socks"]
+    },
+    "city": {
+      "places": ["City Center", "Local Museum", "Night Market", "Historic District", "Rooftop Bar"],
+      "items": ["Comfortable Walking Shoes", "Day Bag", "City Map", "Portable Charger", "Umbrella", "Dress Clothes", "Metro Card", "Camera", "Guidebook"]
+    },
+    "desert": {
+      "places": ["Sand Dunes", "Desert Oasis", "Rock Formations", "Camel Trek"],
+      "items": ["High SPF Sunscreen", "Wide Brim Hat", "Lightweight Long Sleeves", "Electrolyte Tablets", "Dust Mask", "Camelback", "Cooling Towel", "Sandproof Bag"]
+    },
+    "tropical": {
+      "places": ["Waterfall Hike", "Jungle Tour", "Local Village", "Coral Reef"],
+      "items": ["Insect Repellent", "Antimalarial Meds", "Quick-Dry Clothes", "Waterproof Bag", "Reef-Safe Sunscreen", "Sandals", "Lightweight Rain Poncho"]
+    },
+    "europe": {
+      "places": ["Old Town", "Cathedral", "Local Café", "Art Museum", "Cobblestone Market"],
+      "items": ["Comfortable Walking Shoes", "Travel Adapter (Type C)", "Scarf", "Compact Umbrella", "Day Backpack", "Euros Cash", "Rail Pass"]
+    },
+    "japan": {
+      "places": ["Shrine", "Ramen Shop", "Bullet Train Station", "Cherry Blossom Park", "Onsen"],
+      "items": ["IC Card", "Pocket WiFi", "Yen Cash", "Slip-On Shoes", "Towel for Onsen", "Chopsticks", "Portable Umbrella", "Modest Clothing"]
+    },
+    "ski": {
+      "places": ["Ski Resort", "Après-Ski Bar", "Ski Rental Shop", "Mountain Restaurant"],
+      "items": ["Ski Jacket", "Ski Pants", "Thermal Base Layer", "Ski Gloves", "Goggles", "Helmet", "Ski Socks", "Hand Warmers", "Lip Balm SPF", "Neck Gaiter"]
+    }
+  },
+  "weather": {
+    "cold": {
+      "threshold_celsius": 10,
+      "items": ["Heavy Winter Coat", "Thermal Underwear", "Wool Sweater", "Beanie", "Gloves", "Scarf", "Warm Boots", "Thick Socks", "Hand Warmers", "Fleece Jacket"]
+    },
+    "cool": {
+      "threshold_celsius": 18,
+      "items": ["Light Jacket", "Long Sleeve Shirts", "Jeans", "Closed-Toe Shoes", "Light Scarf", "Layering Pieces"]
+    },
+    "warm": {
+      "threshold_celsius": 28,
+      "items": ["T-Shirts", "Shorts", "Sandals", "Sunglasses", "Light Sunscreen", "Baseball Cap"]
+    },
+    "hot": {
+      "threshold_celsius": 99,
+      "items": ["Breathable Shirts", "Shorts", "Sandals", "High SPF Sunscreen", "Cooling Towel", "Electrolyte Drinks", "Wide Brim Hat", "Portable Fan"]
+    },
+    "rain": {
+      "items": ["Waterproof Jacket", "Umbrella", "Waterproof Boots", "Quick-Dry Pants", "Dry Bag", "Waterproof Phone Case"]
+    },
+    "snow": {
+      "items": ["Snow Boots", "Waterproof Gloves", "Thermal Layers", "Snow Pants", "Ice Grips for Shoes"]
+    }
+  },
+  "trip_types": {
+    "business": {
+      "items": ["Laptop", "Laptop Charger", "Business Cards", "Dress Shirts", "Blazer", "Dress Shoes", "Notebook", "Pen", "Portable Charger", "Noise-Canceling Headphones"]
+    },
+    "adventure": {
+      "items": ["First Aid Kit", "Multi-Tool", "Headlamp", "Emergency Whistle", "Waterproof Matches", "Compass", "Satellite Communicator", "Energy Bars", "Rope"]
+    },
+    "family": {
+      "items": ["Kids Sunscreen", "Baby Wipes", "Snacks", "Entertainment Tablet", "Kids First Aid", "Stroller", "Portable Crib", "Diapers", "Formula"]
+    },
+    "romantic": {
+      "items": ["Nice Outfit", "Perfume/Cologne", "Camera", "Candles", "Chocolates", "Jewelry", "Dress Shoes"]
+    }
+  },
+  "essentials": [
+    "Passport",
+    "ID Card",
+    "Travel Insurance Documents",
+    "Flight Tickets",
+    "Hotel Booking Confirmation",
+    "Credit Card",
+    "Debit Card",
+    "Cash",
+    "Phone Charger",
+    "Portable Charger",
+    "Medications",
+    "Toothbrush",
+    "Toothpaste",
+    "Deodorant",
+    "Shampoo",
+    "Conditioner",
+    "Body Wash",
+    "Razor",
+    "Underwear",
+    "Socks",
+    "Pajamas",
+    "Casual Clothes",
+    "Headphones",
+    "Book/E-Reader",
+    "Snacks",
+    "Water Bottle",
+    "Hand Sanitizer",
+    "Face Mask",
+    "Sunglasses",
+    "Wallet"
+  ]
+}

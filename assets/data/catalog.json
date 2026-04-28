@@ -1,0 +1,165 @@
+{
+  "categories": [
+    {
+      "name": "Essentials",
+      "icon": "star",
+      "items": [
+        "Passport", "ID Card", "Travel Insurance", "Flight Tickets", "Hotel Confirmation",
+        "Credit Card", "Debit Card", "Cash", "Emergency Contacts", "Travel Adapter",
+        "Copies of Documents", "Visa Documents", "Health Insurance Card", "Vaccination Records"
+      ]
+    },
+    {
+      "name": "Clothing",
+      "icon": "checkroom",
+      "items": [
+        "T-Shirts", "Shirts", "Pants", "Jeans", "Shorts", "Dress", "Skirt",
+        "Underwear", "Socks", "Pajamas", "Swimsuit", "Swimwear Cover-Up",
+        "Light Jacket", "Heavy Jacket", "Rain Jacket", "Fleece Jacket",
+        "Sweater", "Hoodie", "Thermal Underwear", "Thermal Top", "Thermal Bottoms",
+        "Formal Outfit", "Blazer", "Dress Shirt", "Tie", "Belt",
+        "Workout Clothes", "Sports Bra", "Leggings", "Gym Shorts"
+      ]
+    },
+    {
+      "name": "Footwear",
+      "icon": "directions_walk",
+      "items": [
+        "Sneakers", "Walking Shoes", "Dress Shoes", "Sandals", "Flip Flops",
+        "Hiking Boots", "Rain Boots", "Snow Boots", "Slippers", "Heels"
+      ]
+    },
+    {
+      "name": "Toiletries",
+      "icon": "soap",
+      "items": [
+        "Toothbrush", "Toothpaste", "Floss", "Mouthwash", "Deodorant",
+        "Shampoo", "Conditioner", "Body Wash", "Face Wash", "Moisturizer",
+        "Sunscreen", "Lip Balm", "Razor", "Shaving Cream", "Aftershave",
+        "Makeup", "Makeup Remover", "Cotton Pads", "Q-Tips", "Nail Clippers",
+        "Tweezers", "Hair Brush", "Comb", "Hair Ties", "Bobby Pins",
+        "Dry Shampoo", "Perfume", "Cologne", "Body Lotion", "Hand Cream",
+        "Eye Drops", "Contact Lenses", "Contact Solution", "Glasses"
+      ]
+    },
+    {
+      "name": "Tech",
+      "icon": "devices",
+      "items": [
+        "Phone", "Phone Charger", "Laptop", "Laptop Charger", "Tablet",
+        "Tablet Charger", "Portable Charger", "Power Bank", "Universal Adapter",
+        "Headphones", "Earbuds", "Bluetooth Speaker", "Camera", "Camera Charger",
+        "Memory Cards", "Camera Bag", "Tripod", "GoPro", "Drone",
+        "Kindle/E-Reader", "Smartwatch", "Smartwatch Charger", "USB Hub",
+        "HDMI Cable", "Extension Cord", "Laptop Stand", "Wireless Mouse",
+        "Keyboard", "Hard Drive", "USB Drives"
+      ]
+    },
+    {
+      "name": "Health & Medical",
+      "icon": "medical_services",
+      "items": [
+        "Prescription Medications", "Pain Relievers", "Antihistamines", "Antacids",
+        "Anti-Diarrhea Medication", "Motion Sickness Pills", "Vitamins",
+        "First Aid Kit", "Band-Aids", "Antiseptic Wipes", "Gauze",
+        "Medical Tape", "Thermometer", "Blood Pressure Monitor",
+        "Insulin & Supplies", "EpiPen", "Inhaler", "CPAP Machine",
+        "Melatonin", "Probiotics", "Electrolyte Tablets", "Rehydration Salts"
+      ]
+    },
+    {
+      "name": "Documents",
+      "icon": "description",
+      "items": [
+        "Passport", "Driver's License", "International Driving Permit",
+        "Travel Insurance Policy", "Vaccination Certificate", "COVID Test Results",
+        "Hotel Reservations", "Car Rental Confirmation", "Tour Bookings",
+        "Emergency Contact List", "Medical Information Card", "Prescription Copies"
+      ]
+    },
+    {
+      "name": "Bags & Accessories",
+      "icon": "luggage",
+      "items": [
+        "Main Suitcase", "Carry-On Bag", "Day Backpack", "Tote Bag",
+        "Packing Cubes", "Compression Bags", "Laundry Bag", "Dry Bag",
+        "Fanny Pack", "Crossbody Bag", "Laptop Bag", "Camera Bag",
+        "Luggage Tags", "Luggage Lock", "Luggage Scale", "Packing List"
+      ]
+    },
+    {
+      "name": "Entertainment",
+      "icon": "movie",
+      "items": [
+        "Books", "E-Reader", "Magazines", "Playing Cards", "Travel Games",
+        "Puzzle Book", "Coloring Book", "Sketchbook", "Journal", "Pens",
+        "Headphones", "Downloaded Movies", "Downloaded Music", "Podcasts",
+        "Language Learning App", "Travel Guide App"
+      ]
+    },
+    {
+      "name": "Food & Drink",
+      "icon": "restaurant",
+      "items": [
+        "Snacks", "Energy Bars", "Trail Mix", "Nuts", "Dried Fruit",
+        "Instant Coffee", "Tea Bags", "Water Bottle", "Reusable Cup",
+        "Cutlery Set", "Collapsible Bowl", "Food Container", "Cooler Bag",
+        "Protein Powder", "Meal Replacement Bars"
+      ]
+    },
+    {
+      "name": "Outdoor & Adventure",
+      "icon": "terrain",
+      "items": [
+        "Sunscreen", "Insect Repellent", "After-Bite Cream", "Trekking Poles",
+        "Headlamp", "Flashlight", "Extra Batteries", "Multi-Tool", "Pocket Knife",
+        "Compass", "Map", "Whistle", "Emergency Blanket", "Fire Starter",
+        "Rope", "Carabiner", "Harness", "Helmet", "Knee Pads",
+        "Waterproof Matches", "Water Filter", "Purification Tablets",
+        "Bear Spray", "Bear Canister", "Trowel", "Waste Bags"
+      ]
+    },
+    {
+      "name": "Beach & Water",
+      "icon": "beach_access",
+      "items": [
+        "Swimsuit", "Swim Trunks", "Rash Guard", "Wetsuit", "Snorkel Set",
+        "Fins", "Underwater Camera", "Beach Towel", "Beach Bag", "Beach Mat",
+        "Umbrella", "Beach Tent", "Sand Toys", "Surfboard", "Bodyboard",
+        "Kayak Paddle", "Life Jacket", "Waterproof Sunscreen", "Aloe Vera"
+      ]
+    },
+    {
+      "name": "Winter & Snow",
+      "icon": "ac_unit",
+      "items": [
+        "Ski Jacket", "Ski Pants", "Ski Gloves", "Ski Goggles", "Ski Helmet",
+        "Ski Socks", "Ski Boots", "Skis", "Snowboard", "Snowboard Boots",
+        "Thermal Base Layer", "Fleece Mid-Layer", "Neck Gaiter", "Beanie",
+        "Balaclava", "Hand Warmers", "Foot Warmers", "Snow Boots",
+        "Ice Grips", "Avalanche Beacon", "Probe", "Shovel"
+      ]
+    },
+    {
+      "name": "Baby & Kids",
+      "icon": "child_care",
+      "items": [
+        "Diapers", "Baby Wipes", "Diaper Cream", "Formula", "Baby Food",
+        "Bottles", "Pacifier", "Baby Monitor", "Portable Crib", "Stroller",
+        "Baby Carrier", "Car Seat", "Kids Sunscreen", "Kids Insect Repellent",
+        "Kids Medications", "Toys", "Books", "Tablet with Kids Apps",
+        "Snacks", "Sippy Cup", "Bib", "Change of Clothes (x5)"
+      ]
+    },
+    {
+      "name": "Business Travel",
+      "icon": "business_center",
+      "items": [
+        "Laptop", "Laptop Charger", "Business Cards", "Notebook", "Pens",
+        "Presentation Clicker", "HDMI Adapter", "Portable Projector",
+        "Dress Shirts", "Blazer", "Dress Pants", "Dress Shoes", "Tie",
+        "Cufflinks", "Briefcase", "Portfolio", "Noise-Canceling Headphones"
+      ]
+    }
+  ]
+}
